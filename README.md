@@ -29,8 +29,7 @@ Para rodar a aplicação é preciso executar os seguintes passos:
     cd backend
     cp .env.dev .env
     npm run install
-    npm run build
-    npm run start
+    npm run dev
 ```
 
 3. Rodar o portal:
